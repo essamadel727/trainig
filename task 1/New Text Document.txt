@@ -1,0 +1,9 @@
+editor installed ,  xampp instaled
+
+CMS is :A content management system manages the creation and modification of digital content. It typically supports multiple users in a collaborative environment.
+
+CMS features vary widely. They are widely used for either enterprise content management or web content management. Most CMSs include Web-based publishing, format management, history editing and version control, indexing, search, and retrieval. By their nature, content management systems support the separation of content and presentation.
+
+A web content management system (WCM or WCMS) is a CMS designed to support the management of the content of Web pages. Most popular CMSs are also WCMSs. Web content includes text and embedded graphics, photos, video, audio, maps, and program code (such as for applications) that displays content or interacts with the user.
+
+searched from wikipedia 
